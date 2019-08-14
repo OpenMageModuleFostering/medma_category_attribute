@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Medma_Category_Attribute</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSLv3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This module mainly used to create an date type attribute in category.As we all know that we can not add attribute to category directly in magento</summary>
+    <description>This module mainly used to create an date type attribute in category.As we all know that we can not add attribute to category directly in magento</description>
+    <notes>First Preview Release</notes>
+    <authors><author><name>Medma Infomatix</name><user>Medma_Infomatix</user><email>gaurav@medma.in</email></author></authors>
+    <date>2012-10-01</date>
+    <time>05:53:43</time>
+    <contents><target name="magelocal"><dir name="Medma"><dir name="Attrib"><dir name="etc"><file name="config.xml" hash="008862d58ac3ae91021902a6ddee8c1f"/><file name="config.xml~" hash="008862d58ac3ae91021902a6ddee8c1f"/></dir><dir name="sql"><dir name="attrib_setup"><file name="mysql4-install-0.1.0.php" hash="9a820d9b0604d50d11ab4dc472f6b464"/><file name="mysql4-install-0.1.0.php~" hash="d715bfe121713d938d6a2919446bf0f8"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Medma_Attrib.xml" hash="1886a410999c73bdde9cad3b8b25d001"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
