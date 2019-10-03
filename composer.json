@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Medma_Category_Attribute",
+    "name": "openmage-module-fostering\/medma_category_attribute",
     "type": "magento-module",
-    "license": "OSLv3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "This module mainly used to create an date type attribute in category.As we all know that we can not add attribute to category directly in magento",
     "authors": [
